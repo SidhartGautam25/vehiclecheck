@@ -21,14 +21,15 @@
 }
 .inner2{
   position: relative;
+  margin: 5px;
 }
 .inner1{
   border:2px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.formclass{
-  border:2px solid yellow;
-  
-}
+
 .output{
   font-size: large;
   color:black;
